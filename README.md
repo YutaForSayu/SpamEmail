@@ -1,6 +1,6 @@
 # SpamEmail
 
-Spam orang yang lu benci/ripper
+Spam email orang yang lu benci/ripper
 
 ```
 pkg install python3
